@@ -72,7 +72,9 @@ reddit-persona-generator/
 ├── persona_user.txt   # Output text (auto-generated)
 ├── .env                   # Reddit API credentials (user-provided)
 ├── requirements.txt       # Python dependencies
+├── user_interface.png       # website interface
 └── README.md              # You are here 👋
+
 
 ```
 
@@ -174,5 +176,3 @@ REDDIT_CLIENT_SECRET=supersecretvalue
 ## 📄 License
 
 Licensed under the MIT License.
-```
-
