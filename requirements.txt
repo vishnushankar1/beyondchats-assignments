@@ -1,0 +1,6 @@
+streamlit
+praw
+python-dotenv
+Pillow
+langchain
+langchain-groq
